@@ -4,7 +4,7 @@ I build tools for working with AI agents, and I use them all day to find out whi
 ones hold up. Almost everything here started the same way: something in the daily
 loop broke or annoyed me, so I built the thing that fixed it.
 
-I build voice AI infrastructure at [@VapiAI](https://github.com/VapiAI) during the day.
+Voice AI infrastructure at [@VapiAI](https://github.com/VapiAI) during the day.
 
 ### What I'm building
 
